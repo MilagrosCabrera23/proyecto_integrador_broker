@@ -57,17 +57,9 @@ El objetivo principal de esta aplicación es ofrecer una experiencia de usuario 
 ## Equipo de trabajo
 
 ### Franco Bulacio
-- DNI: 40025895
-- Github: [https://github.com/franflos](https://github.com/franflos)
 
 ### Milagros Magaly Cabrera
-- DNI: 43608810
-- GIthub: [https://github.com/MilagrosCabrera23](https://github.com/MilagrosCabrera23)
 
 ### Evelin Andrea Checa
-- DNI: 29607888
-- Github: [https://github.com/evecheca](https://github.com/evecheca)
 
 ### Christian Caracach
-- DNI: 35578113
-- Github: [https://github.com/Chriscaracach](https://github.com/Chriscaracach)
