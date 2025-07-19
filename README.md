@@ -1,11 +1,4 @@
 # Proyecto Integrador - TSDS - ISPC
-### Programación, Bases de Datos, Competencias Comunicacionales 2 
-
-
-Éste es el proyecto integrador del grupo "Programando 18"
-El nombre del proyecto es Mis Acciones
-
-## Descripción
 
 El Broker de Inversiones es una plataforma diseñada para facilitar la gestión de inversiones financieras. Los usuarios pueden registrarse y acceder a una interfaz amigable donde pueden comprar y vender acciones de manera intuitiva. La aplicación proporciona herramientas para monitorear el rendimiento de las inversiones y obtener insights mediante gráficos y estadísticas detalladas.
 
